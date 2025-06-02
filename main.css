@@ -1,0 +1,69 @@
+button{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: brown;
+    color : white;
+    
+}
+
+#btn-box{
+    display: flex;
+    gap: 50px;
+    justify-content : center;
+    text-align: center;
+
+}
+.heading{
+    text-align: center;
+    justify-content: center;
+}
+body{
+    background-color: cadetblue;
+}
+
+#box{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#player{
+    height: 100px;
+    width: 100px;
+    
+    justify-content:center    ;
+    text-align: center;
+    background-color: violet;
+}
+#player2{
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+    justify-content:center;
+    text-align: center;
+    
+}
+#computer{
+    height: 100px;
+    width: 100px;
+    
+    justify-content:center    ;
+    text-align: center;
+    background-color: violet;
+}
+
+.score{
+    height: 80px;
+    font-size: 45px;
+}
+#game{
+    font-size: 30px;
+    text-align: center;
+}
+#result{
+    font-size: 30px;
+    text-align: center;
+    color: darkblue;
+}
